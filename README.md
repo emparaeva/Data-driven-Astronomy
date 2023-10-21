@@ -1,2 +1,1 @@
 # Data-driven-Astronomy
-gg
